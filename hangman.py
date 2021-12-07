@@ -6,8 +6,8 @@ import pygame
 import random
 
 pygame.init()
-winHeight = 480
-winWidth = 700
+winHeight = 900
+winWidth = 1500
 win=pygame.display.set_mode((winWidth,winHeight))
 #---------------------------------------#
 # initialize global variables/constants #
